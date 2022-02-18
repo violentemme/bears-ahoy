@@ -11,5 +11,8 @@ h2{
     color:darksalmon;
   }
   ol{
-    color:indianred
+    color:indianred;
   }
+[href] {
+    color:coral;
+   }
