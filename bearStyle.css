@@ -11,18 +11,24 @@ h2{
     color:darksalmon;
   }
   ol{
-    color:indianred;
+    color:indianred
   }
-[href] {
+  [href] {
     color:coral;
-   }
+}
 
 a[href]:hover {
     color:darkgreen;
 }
 
-.the-big-boy {
+#the-big-boy {
+    text-align: center;
+    margin-left: 25%;
     background-color: cadetblue;
+    height: 500px;
+    width: 500px;
+    border: 5px 5px dotted darkred;
+    border-radius: 50%;
 }
 
 #introduction {
@@ -35,16 +41,21 @@ div {
 
 ul {
     background-color: wheat;
+    text-align: left;
+    list-style: georgian;
 }
 
 .essential-info {
     background-color:chocolate;
+    text-align: justify;
 }
 
 .motherlands li {
     color:darkgoldenrod;
+    text-align: left;
 }
 
 #bearin-around {
     background-color: darkorange;
 }
+
