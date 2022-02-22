@@ -16,3 +16,35 @@ h2{
 [href] {
     color:coral;
    }
+
+a[href]:hover {
+    color:darkgreen;
+}
+
+.the-big-boy {
+    background-color: cadetblue;
+}
+
+#introduction {
+    background-color: antiquewhite;
+}
+
+div {
+    background-color: bisque;
+}
+
+ul {
+    background-color: wheat;
+}
+
+.essential-info {
+    background-color:chocolate;
+}
+
+.motherlands li {
+    color:darkgoldenrod;
+}
+
+#bearin-around {
+    background-color: darkorange;
+}
